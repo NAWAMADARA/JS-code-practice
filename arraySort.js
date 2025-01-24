@@ -1,4 +1,4 @@
-let array = [1,10,2,9,3,8,4,7,5,6,100,10123];
+let array = [1,10,2,9,3,8,4,7,5,6,100,10123456];
 
 function sortArray(array){
     for(let i=1; i<array.length; i++){
